@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+.streamlit/
+*.pyc
+*.pyo
+*.pyd
+*.log
+server_ig.pid
+server_ig.session
+scheduler_state.json
+posted_videos/
+failed_videos/
+pending_videos/
+logs/
