@@ -1,10 +1,10 @@
 
+<img width="1536" height="1024" alt="ChatGPT Image May 11, 2026, 11_07_04 PM" src="https://github.com/user-attachments/assets/f444021f-4cbe-44a0-931a-bb6dd7203c4d" />
 
-<img width="600" height="301" alt="776def62-8947-4734-847d-6fbb99520827_removalai_preview" src="https://github.com/user-attachments/assets/a974405b-4648-48e5-a069-a2e2fa7dedad" />
 
 			 
 			 
-			 NeonReel Scheduler — Automated Reels, Scheduled
+NeonReel Scheduler — Automated Reels, Scheduled
 
 # NeonReel Scheduler
 
